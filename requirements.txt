@@ -16,6 +16,6 @@ pefile
 capstone
 hyperframe
 h2
-mitmproxy==0.18.2
+mitmproxy==7.0.3
 scapy_http
 service_identity
